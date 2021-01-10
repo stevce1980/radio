@@ -1,67 +1,529 @@
 #EXTM3U
-#EXTINF:0,
-http://s2.radiomorava.rs:8000/;
-#EXTINF:0,
-http://antenaradio.org:4550/;
-#EXTINF:0,
-http://92.60.230.200:5010/;
-#EXTINF:0,
-http://87.118.126.101:19406/stream
-#EXTINF:0,
-http://46.4.76.142:8026/
-#EXTINF:0,
-http://stream.rtvbn.com:8000/
-#EXTINF:0,
-http://stream.radioljubic.com:8070/stream
-#EXTINF:0,
-http://5.9.25.50:9302/
-#EXTINF:0,
-http://77.74.231.21:8028/;
-#EXTINF:0,
-http://107.155.154.100:8040/
-#EXTINF:0,
-http://pink.exyuserver.com:80/
-#EXTINF:0,
-http://88.198.175.30:5827/stream
-#EXTINF:0,
-http://5.9.25.50:9300/stream
-#EXTINF:0,
-http://ljubav.streaming.rs:9340/
-#EXTINF:0,
-http://rsm32.streaming.rs:10300/
-#EXTINF:0,
-http://192.227.85.169:5351/stream
-#EXTINF:0,
-http://89.36.216.228:8585/;
-#EXTINF:0,
-http://5.9.25.50:9340/
-#EXTINF:0,
-http://185.102.239.216:8000/;
-#EXTINF:0,
-http://136.243.12.82:9036/
-#EXTINF:0,
-http://213.239.205.210:8082/stream
-#EXTINF:0,
-http://46.4.76.142:8026/
-#EXTINF:0,
-http://stream1.contrateam.com:8040/
-#EXTINF:0,
-http://92.60.230.200:5040/;
-#EXTINF:0,
-http://178.32.62.163:8251/stream
-#EXTINF:0,
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13386
-#EXTINF:0,
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657507
-#EXTINF:0,
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657511
-#EXTINF:0,
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657508
-#EXTINF:0,
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657510
-#EXTINF:0,
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657509
-#EXTINF:0,
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13387
-#EXTINF:0,
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685983
+#EXTINF:-1 tvg-id="" tvg-name="### (ALB) ALBANIA ###" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/ALBANIAFLAG.png" group-title="EU| ALBANIA",### (ALB) ALBANIA ###
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3636
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) CORONA VIRUS INFO" tvg-logo="http://107.152.105.108:81/Logo/CANADAENGLISH/CORONAVIRUSINFO.png" group-title="EU| ALBANIA",(ALB) CORONA VIRUS INFO
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3635
+#EXTINF:-1 tvg-id="topchannel.al" tvg-name="(ALB) TOP CHANNEL HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TOPCHANNELHD.png" group-title="EU| ALBANIA",(ALB) TOP CHANNEL HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3634
+#EXTINF:-1 tvg-id="topchannel.al" tvg-name="(ALB) TOP CHANNEL 4K" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TOPCHANNELHD.png" group-title="EU| ALBANIA",(ALB) TOP CHANNEL 4K
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3633
+#EXTINF:-1 tvg-id="klantv.al" tvg-name="(ALB) KLAN TV HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/KLANTVHD.png" group-title="EU| ALBANIA",(ALB) KLAN TV HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3632
+#EXTINF:-1 tvg-id="klantv.al" tvg-name="(ALB) KLAN 4K" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/KLAN4K.png" group-title="EU| ALBANIA",(ALB) KLAN 4K
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3631
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) KLAN PLUS 4K" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/KLANPLUS4K.png" group-title="EU| ALBANIA",(ALB) KLAN PLUS 4K
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3630
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) KLAN PLUS HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/KLANPLUS4K.png" group-title="EU| ALBANIA",(ALB) KLAN PLUS HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3629
+#EXTINF:-1 tvg-id="vizionplus.al" tvg-name="(ALB) VIZION PLUS HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/VIZIONPLUSHD.png" group-title="EU| ALBANIA",(ALB) VIZION PLUS HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3628
+#EXTINF:-1 tvg-id="vizionplus.al" tvg-name="(ALB) VIZION PLUS 4K" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/VIZIONPLUSHD.png" group-title="EU| ALBANIA",(ALB) VIZION PLUS 4K
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3627
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) Kanal 10 FHD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/KANAL10FHD.png" group-title="EU| ALBANIA",(ALB) Kanal 10 FHD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/72662
+#EXTINF:-1 tvg-id="klankosova.al" tvg-name="(ALB) KLAN KOSOVA HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/KLANKOSOVAHD.png" group-title="EU| ALBANIA",(ALB) KLAN KOSOVA HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3626
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) KLAN MACEDONIA" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/KLANKOSOVAHD.png" group-title="EU| ALBANIA",(ALB) KLAN MACEDONIA
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3625
+#EXTINF:-1 tvg-id="alsatm.al" tvg-name="(ALB) ALSAT M HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ALSATMHD.png" group-title="EU| ALBANIA",(ALB) ALSAT M HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3624
+#EXTINF:-1 tvg-id="alsatm.al" tvg-name="(ALB) ALSAT M" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ALSATM.png" group-title="EU| ALBANIA",(ALB) ALSAT M
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3623
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) IN TV" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/INTV.png" group-title="EU| ALBANIA",(ALB) IN TV
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3622
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTSH 1" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTSH1.png" group-title="EU| ALBANIA",(ALB) RTSH 1
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3621
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTSH 1 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTSH1.png" group-title="EU| ALBANIA",(ALB) RTSH 1 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3620
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTSH 2 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTSH2HD.png" group-title="EU| ALBANIA",(ALB) RTSH 2 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3619
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTSH 3" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTSH3.png" group-title="EU| ALBANIA",(ALB) RTSH 3
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3618
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTSH MUZIKE" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTSHMUZIKE.png" group-title="EU| ALBANIA",(ALB) RTSH MUZIKE
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3617
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTSH SHQIP" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTSHGJIROKASTRA.png" group-title="EU| ALBANIA",(ALB) RTSH SHQIP
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3616
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTSH GJIROKASTRA" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTSHGJIROKASTRA.png" group-title="EU| ALBANIA",(ALB) RTSH GJIROKASTRA
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3615
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTSH 24 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTSH24HD.png" group-title="EU| ALBANIA",(ALB) RTSH 24 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3614
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTSH PLUS" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTSHPLUS.png" group-title="EU| ALBANIA",(ALB) RTSH PLUS
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3613
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTSH KUVEND" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTSHKUVEND.png" group-title="EU| ALBANIA",(ALB) RTSH KUVEND
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3612
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTSH SPORT HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTSHSPORTHD.png" group-title="EU| ALBANIA",(ALB) RTSH SPORT HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3611
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTK 1" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTK1.png" group-title="EU| ALBANIA",(ALB) RTK 1
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3610
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTK 1 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTK1.png" group-title="EU| ALBANIA",(ALB) RTK 1 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3609
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTK 2" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTK2.png" group-title="EU| ALBANIA",(ALB) RTK 2
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3608
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTK 3" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTK3.png" group-title="EU| ALBANIA",(ALB) RTK 3
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3607
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTK 4" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTK4.png" group-title="EU| ALBANIA",(ALB) RTK 4
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3606
+#EXTINF:-1 tvg-id="rtv21.al" tvg-name="(ALB) RTV21" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTV21.png" group-title="EU| ALBANIA",(ALB) RTV21
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3605
+#EXTINF:-1 tvg-id="rtv21.al" tvg-name="(ALB) RTV21 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTV21.png" group-title="EU| ALBANIA",(ALB) RTV21 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3604
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTV21 MAQEDONIA" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTV21MAQEDONIA.png" group-title="EU| ALBANIA",(ALB) RTV21 MAQEDONIA
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3603
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) KTV KOHAVISION" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/KTVKOHAVISION.png" group-title="EU| ALBANIA",(ALB) KTV KOHAVISION
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3602
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV DUKAGJINI" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVDUKAGJINI.png" group-title="EU| ALBANIA",(ALB) TV DUKAGJINI
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3601
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) T7" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/T7.png" group-title="EU| ALBANIA",(ALB) T7
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3600
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV ERA" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVERA.png" group-title="EU| ALBANIA",(ALB) TV ERA
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3599
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) MRT 2" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/MRT2.png" group-title="EU| ALBANIA",(ALB) MRT 2
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3598
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) SHENJA TV" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SHENJATV.png" group-title="EU| ALBANIA",(ALB) SHENJA TV
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3597
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FIRST TV" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FIRSTTV.png" group-title="EU| ALBANIA",(ALB) FIRST TV
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3596
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTV21 MIX" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTV21MIX.png" group-title="EU| ALBANIA",(ALB) RTV21 MIX
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3595
+#EXTINF:-1 tvg-id="rtv21plus.al" tvg-name="(ALB) RTV21 PLUS" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTV21PLUS.png" group-title="EU| ALBANIA",(ALB) RTV21 PLUS
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3594
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTV21 NEWSBIZ HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTV21NEWSBIZHD.png" group-title="EU| ALBANIA",(ALB) RTV21 NEWSBIZ HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3593
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV KOHA HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVKOHAHD.png" group-title="EU| ALBANIA",(ALB) TV KOHA HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3592
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV CHANNEL SHOKDER" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVCHANNELSHOULDER.png" group-title="EU| ALBANIA",(ALB) TV CHANNEL SHOKDER
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3591
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV MITROVICA" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVMITROVICA.png" group-title="EU| ALBANIA",(ALB) TV MITROVICA
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3590
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) SYRI VISION" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SYRIVISION.png" group-title="EU| ALBANIA",(ALB) SYRI VISION
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3589
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV LLAPI" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVLLAPI.png" group-title="EU| ALBANIA",(ALB) TV LLAPI
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3588
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) BESA TV" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/BESATV.png" group-title="EU| ALBANIA",(ALB) BESA TV
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3587
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV GLOBI" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVGLOBI.png" group-title="EU| ALBANIA",(ALB) TV GLOBI
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3584
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV2 GOSTIVAR" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TV2GOSTIVAR.png" group-title="EU| ALBANIA",(ALB) TV2 GOSTIVAR
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3583
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV TETOVA HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVTETOVAHD.png" group-title="EU| ALBANIA",(ALB) TV TETOVA HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3582
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) STAR PLUS SHKODER HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/STARPLUSSHKODERHD.png" group-title="EU| ALBANIA",(ALB) STAR PLUS SHKODER HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3581
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV KOPLIKU HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVKOPLIKUHD.png" group-title="EU| ALBANIA",(ALB) TV KOPLIKU HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3580
+#EXTINF:-1 tvg-id="tematv.al" tvg-name="(ALB) TEMA TV" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TEMATV.png" group-title="EU| ALBANIA",(ALB) TEMA TV
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3577
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV LIRIA" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVLIRIA.png" group-title="EU| ALBANIA",(ALB) TV LIRIA
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3578
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) KOMBI TV" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/KOMBITV.png" group-title="EU| ALBANIA",(ALB) KOMBI TV
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/67015
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV OPINION" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/TVOPINION.png" group-title="EU| ALBANIA",(ALB) TV OPINION
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/67014
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV PRESHEVA" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/TVPRESHEVA.png" group-title="EU| ALBANIA",(ALB) TV PRESHEVA
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/67013
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) VIZION PLUS" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/VIZIONPLUS.png" group-title="EU| ALBANIA",(ALB) VIZION PLUS
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/67012
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTV FONTANA HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/RTV.png" group-title="EU| ALBANIA",(ALB) RTV FONTANA HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/67011
+#EXTINF:-1 tvg-id="" tvg-name="### (ALB) LAJME ###" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/ALBANIAFLAG.png" group-title="EU| ALBANIA",### (ALB) LAJME ###
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3576
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TOP NEWS" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TOPNEWS.png" group-title="EU| ALBANIA",(ALB) TOP NEWS
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3575
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) ABC NEWS" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ABCNEWS.png" group-title="EU| ALBANIA",(ALB) ABC NEWS
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3574
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) ORA NEWS HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ORANEWSHD.png" group-title="EU| ALBANIA",(ALB) ORA NEWS HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3573
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) NEWS 24" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/NEWS24.png" group-title="EU| ALBANIA",(ALB) NEWS 24
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3572
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FAX NEWS" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FAXNEWS.png" group-title="EU| ALBANIA",(ALB) FAX NEWS
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3571
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) REPORT TV" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/REPORTTV.png" group-title="EU| ALBANIA",(ALB) REPORT TV
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3570
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) A2 4K" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/A24K.png" group-title="EU| ALBANIA",(ALB) A2 4K
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3569
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) KANALI 7" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/KANALI7.png" group-title="EU| ALBANIA",(ALB) KANALI 7
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3568
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) ART CHANNEL HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ARTCHANNELHD.png" group-title="EU| ALBANIA",(ALB) ART CHANNEL HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3565
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) EURONEWS ALBANIA" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/EURONEWSALBANIA.png" group-title="EU| ALBANIA",(ALB) EURONEWS ALBANIA
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3564
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) SCAN TV" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SCANTV.png" group-title="EU| ALBANIA",(ALB) SCAN TV
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3563
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) BUBRRECI TV HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/BUBRRECITVHD.png" group-title="EU| ALBANIA",(ALB) BUBRRECI TV HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3561
+#EXTINF:-1 tvg-id="bangbang.al" tvg-name="(ALB) BANG BANG" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/BANGBANG.png" group-title="EU| ALBANIA",(ALB) BANG BANG
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3560
+#EXTINF:-1 tvg-id="cufotv.al" tvg-name="(ALB) CUFO" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/CUFO.png" group-title="EU| ALBANIA",(ALB) CUFO
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3559
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) BABY TV" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/BABYTV.png" group-title="EU| ALBANIA",(ALB) BABY TV
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3558
+#EXTINF:-1 tvg-id="juniortv.al" tvg-name="(ALB) JUNIOR" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/JUNIOR.png" group-title="EU| ALBANIA",(ALB) JUNIOR
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3557
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TRING KIDS" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TRINGKIDS.png" group-title="EU| ALBANIA",(ALB) TRING KIDS
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3556
+#EXTINF:-1 tvg-id="tringtring.al" tvg-name="(ALB) TRING TRING" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TRINGTRING.png" group-title="EU| ALBANIA",(ALB) TRING TRING
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3555
+#EXTINF:-1 tvg-id="tiptv.al" tvg-name="(ALB) TIP TV" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TIPTV.png" group-title="EU| ALBANIA",(ALB) TIP TV
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3554
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) SOFIA" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SOFIA.png" group-title="EU| ALBANIA",(ALB) SOFIA
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3553
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) SOLE TV" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SOLETV.png" group-title="EU| ALBANIA",(ALB) SOLE TV
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3552
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) Q TOM & JERRY" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/QTOM%26JERRY.png" group-title="EU| ALBANIA",(ALB) Q TOM & JERRY
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3551
+#EXTINF:-1 tvg-id="rtv21junior.al" tvg-name="(ALB) RTV21 JUNIOR" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTV21JUNIOR.png" group-title="EU| ALBANIA",(ALB) RTV21 JUNIOR
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3550
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTSH FEMIJE" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTSHFEMIJE.png" group-title="EU| ALBANIA",(ALB) RTSH FEMIJE
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3549
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) PJ MASKS" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/PJMASKS.png" group-title="EU| ALBANIA",(ALB) PJ MASKS
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3548
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) BOOMERANG" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/BOOMERANG.png" group-title="EU| ALBANIA",(ALB) BOOMERANG
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3547
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) ART PRINCE KIDS" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ARTPRINCEKIDS.png" group-title="EU| ALBANIA",(ALB) ART PRINCE KIDS
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3546
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) CARTOON NETWORK" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/CARTOONNETWORK.png" group-title="EU| ALBANIA",(ALB) CARTOON NETWORK
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3545
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) DRAGON BALL Z HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/DRAGONBALLZHD.png" group-title="EU| ALBANIA",(ALB) DRAGON BALL Z HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3544
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) BARBIE TV" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/BABYTV.png" group-title="EU| ALBANIA",(ALB) BARBIE TV
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3543
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) BABY BOX TV HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/BABYBOXTVHD.png" group-title="EU| ALBANIA",(ALB) BABY BOX TV HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3542
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) DUCK TV" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/DUCKTV.png" group-title="EU| ALBANIA",(ALB) DUCK TV
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3541
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) JIM JAM" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/JIMJAM.png" group-title="EU| ALBANIA",(ALB) JIM JAM
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3540
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) KIDS BOX" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/KIDSBOX.png" group-title="EU| ALBANIA",(ALB) KIDS BOX
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3539
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) MR BEAN" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/MRBEAN.png" group-title="EU| ALBANIA",(ALB) MR BEAN
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3538
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) PERRALLA BOX" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/PERRALLABOX.png" group-title="EU| ALBANIA",(ALB) PERRALLA BOX
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3537
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) KENGE PER FEMIJE" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/KENGEPERFEMIJE.png" group-title="EU| ALBANIA",(ALB) KENGE PER FEMIJE
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3536
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) NINULLA PER GJUME" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/NINULLAPERGJUME.png" group-title="EU| ALBANIA",(ALB) NINULLA PER GJUME
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3535
+#EXTINF:-1 tvg-id="" tvg-name="### (ALB) DIGITALB FILM ###" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/ALBANIAFLAG.png" group-title="EU| ALBANIA",### (ALB) DIGITALB FILM ###
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3534
+#EXTINF:-1 tvg-id="filmnje.al" tvg-name="(ALB) FILM NJE HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FILMNJEHD.png" group-title="EU| ALBANIA",(ALB) FILM NJE HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3533
+#EXTINF:-1 tvg-id="filmdy.al" tvg-name="(ALB) FILM DY HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FILMDYHD.png" group-title="EU| ALBANIA",(ALB) FILM DY HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3532
+#EXTINF:-1 tvg-id="filmaksion.al" tvg-name="(ALB) FILM AKSION" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FILMAKSION.png" group-title="EU| ALBANIA",(ALB) FILM AKSION
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3531
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FILM HITS" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FILMHITS.png" group-title="EU| ALBANIA",(ALB) FILM HITS
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3530
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FILM AUTOR" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FILMAUTOR.png" group-title="EU| ALBANIA",(ALB) FILM AUTOR
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3529
+#EXTINF:-1 tvg-id="filmdrame.al" tvg-name="(ALB) FILM DRAMA" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FILMDRAMA.png" group-title="EU| ALBANIA",(ALB) FILM DRAMA
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3528
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FILM KOMEDI" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FILMKOMEDI.png" group-title="EU| ALBANIA",(ALB) FILM KOMEDI
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3527
+#EXTINF:-1 tvg-id="filmthriller.al" tvg-name="(ALB) FILM THRILLER" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FILMTHRILLER.png" group-title="EU| ALBANIA",(ALB) FILM THRILLER
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3526
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FILM FAMILY HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FILMFAMILYHD.png" group-title="EU| ALBANIA",(ALB) FILM FAMILY HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3525
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FILM STINET" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FILMSTINET.png" group-title="EU| ALBANIA",(ALB) FILM STINET
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3524
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FILM T HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FILMTHD.png" group-title="EU| ALBANIA",(ALB) FILM T HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3523
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TDC" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TDC.png" group-title="EU| ALBANIA",(ALB) TDC
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3522
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TDC 4K" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TDC4K.png" group-title="EU| ALBANIA",(ALB) TDC 4K
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3521
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) EURO FILM" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/EUROFILM.png" group-title="EU| ALBANIA",(ALB) EURO FILM
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3520
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) EURO FILM 1 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/EUROFILM1HD.png" group-title="EU| ALBANIA",(ALB) EURO FILM 1 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3519
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) EURO FILM 2 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/EUROFILM2HD.png" group-title="EU| ALBANIA",(ALB) EURO FILM 2 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3518
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) EURO FILM 4 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/EUROFILM4HD.png" group-title="EU| ALBANIA",(ALB) EURO FILM 4 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3517
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) EURO FILM 3 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/EUROFILM3HD.png" group-title="EU| ALBANIA",(ALB) EURO FILM 3 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3516
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) DIGI GOLD FAMILY HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/DIGIGOLDFAMILYHD.png" group-title="EU| ALBANIA",(ALB) DIGI GOLD FAMILY HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3508
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TRING ACTION" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TRINGACTION.png" group-title="EU| ALBANIA",(ALB) TRING ACTION
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3506
+#EXTINF:-1 tvg-id="tringfantazi.al" tvg-name="(ALB) TRING FANTASY" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TRINGFANTASY.png" group-title="EU| ALBANIA",(ALB) TRING FANTASY
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3505
+#EXTINF:-1 tvg-id="tringlife.al" tvg-name="(ALB) TRING LIFE" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TRINGLIFE.png" group-title="EU| ALBANIA",(ALB) TRING LIFE
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3504
+#EXTINF:-1 tvg-id="tringcomedy.al" tvg-name="(ALB) TRING COMEDY" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TRINGCOMEDY.png" group-title="EU| ALBANIA",(ALB) TRING COMEDY
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3503
+#EXTINF:-1 tvg-id="tringsuper.al" tvg-name="(ALB) TRING SUPER" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TRINGSUPER.png" group-title="EU| ALBANIA",(ALB) TRING SUPER
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3502
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TRING 3" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TRING3.png" group-title="EU| ALBANIA",(ALB) TRING 3
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3501
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TRING SMILE" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TRINGSMILE.png" group-title="EU| ALBANIA",(ALB) TRING SMILE
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3500
+#EXTINF:-1 tvg-id="tringshqip.al" tvg-name="(ALB) TRING SHQIP" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TRINGSHQIP.png" group-title="EU| ALBANIA",(ALB) TRING SHQIP
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3499
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TRING JOLLY" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TRINGJOLLY.png" group-title="EU| ALBANIA",(ALB) TRING JOLLY
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3498
+#EXTINF:-1 tvg-id="living.al" tvg-name="(ALB) LIVING HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/LIVINGHD.png" group-title="EU| ALBANIA",(ALB) LIVING HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3497
+#EXTINF:-1 tvg-id="fox.al" tvg-name="(ALB) FOX CHANNEL" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FOXCHANNEL.png" group-title="EU| ALBANIA",(ALB) FOX CHANNEL
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3496
+#EXTINF:-1 tvg-id="foxlife.al" tvg-name="(ALB) FOX LIFE" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FOXLIFE.png" group-title="EU| ALBANIA",(ALB) FOX LIFE
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3495
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) COMEDY CENTRAL EXTRA" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/COMEDYCENTRALEXTRA.png" group-title="EU| ALBANIA",(ALB) COMEDY CENTRAL EXTRA
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3494
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) KANAL D DRAMA" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/KANALDDRAMA.png" group-title="EU| ALBANIA",(ALB) KANAL D DRAMA
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3493
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) Q PREMIUM 1 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/QAKSIONHD.png" group-title="EU| ALBANIA",(ALB) Q PREMIUM 1 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3491
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) Q PREMIUM 2 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/QAKSIONHD.png" group-title="EU| ALBANIA",(ALB) Q PREMIUM 2 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3490
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) Q PREMIUM 4 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/QCINEMAHD.png" group-title="EU| ALBANIA",(ALB) Q PREMIUM 4 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3489
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) Q ACTION HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/QCINEMAHD.png" group-title="EU| ALBANIA",(ALB) Q ACTION HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3488
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) Q PREMIUM 5 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/QFOLKHD.png" group-title="EU| ALBANIA",(ALB) Q PREMIUM 5 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3487
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) Q KOMEDI HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/QCINEMAHD.png" group-title="EU| ALBANIA",(ALB) Q KOMEDI HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3486
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) Q HINDI HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/QCINEMAHD.png" group-title="EU| ALBANIA",(ALB) Q HINDI HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3485
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) Q PREMIUM 3 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/QCINEMAHD.png" group-title="EU| ALBANIA",(ALB) Q PREMIUM 3 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3484
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) Q WESTERN HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/QCINEMAHD.png" group-title="EU| ALBANIA",(ALB) Q WESTERN HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3483
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) Q HINDI 2 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/QCINEMAHD.png" group-title="EU| ALBANIA",(ALB) Q HINDI 2 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3482
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) Q POPULLORE HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/QQIFTELIHD.png" group-title="EU| ALBANIA",(ALB) Q POPULLORE HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3481
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) Q HUMOR HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/QQIFTELIHD.png" group-title="EU| ALBANIA",(ALB) Q HUMOR HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3480
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) Q STUPCAT HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/QQIFTELIHD.png" group-title="EU| ALBANIA",(ALB) Q STUPCAT HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3479
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) Q DRAMA HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/QQIFTELIHD.png" group-title="EU| ALBANIA",(ALB) Q DRAMA HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3478
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV PLISI ACTION HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVPLISIACTIONHD.png" group-title="EU| ALBANIA",(ALB) TV PLISI ACTION HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3477
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV PLISI COMEDY HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVPLISICOMEDYHD.png" group-title="EU| ALBANIA",(ALB) TV PLISI COMEDY HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3476
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV PLISI FANTASY HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVPLISICOMEDYHD.png" group-title="EU| ALBANIA",(ALB) TV PLISI FANTASY HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3475
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV PLISI HORROR HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVPLISICOMEDYHD.png" group-title="EU| ALBANIA",(ALB) TV PLISI HORROR HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3474
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV PLISI THRILLER HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVPLISICOMEDYHD.png" group-title="EU| ALBANIA",(ALB) TV PLISI THRILLER HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3473
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV PLISI HUMOR HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVPLISICOMEDYHD.png" group-title="EU| ALBANIA",(ALB) TV PLISI HUMOR HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3472
+#EXTINF:-1 tvg-id="" tvg-name="### (ALB) X FILM ###" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/ALBANIAFLAG.png" group-title="EU| ALBANIA",### (ALB) X FILM ###
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3471
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X PREMIUM 1 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XPREMIUM1HD.png" group-title="EU| ALBANIA",(ALB) X PREMIUM 1 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3470
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X PREMIUM 2 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XPREMIUM2HD.png" group-title="EU| ALBANIA",(ALB) X PREMIUM 2 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3469
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X PREMIUM 3 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XPREMIUM3HD.png" group-title="EU| ALBANIA",(ALB) X PREMIUM 3 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3468
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X PREMIUM 4 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XPREMIUM4HD.png" group-title="EU| ALBANIA",(ALB) X PREMIUM 4 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3467
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X ACTION HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XACTIONHD.png" group-title="EU| ALBANIA",(ALB) X ACTION HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3466
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X COMEDY HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XCOMEDYHD.png" group-title="EU| ALBANIA",(ALB) X COMEDY HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3465
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X FAMILY HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XFAMILYHD.png" group-title="EU| ALBANIA",(ALB) X FAMILY HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3464
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X DRAMA HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XDRAMAHD.png" group-title="EU| ALBANIA",(ALB) X DRAMA HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3463
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X THRILLER HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XTHRILLERHD.png" group-title="EU| ALBANIA",(ALB) X THRILLER HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3462
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X FILMA 24 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XFILMA24HD.png" group-title="EU| ALBANIA",(ALB) X FILMA 24 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3461
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X DARK HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XDARKHD.png" group-title="EU| ALBANIA",(ALB) X DARK HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3460
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X ROMANCE HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XROMANCEHD.png" group-title="EU| ALBANIA",(ALB) X ROMANCE HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3459
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X SCI-FI HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XSCI-FIHD.png" group-title="EU| ALBANIA",(ALB) X SCI-FI HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3458
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X WESTERN HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XWESTERNHD.png" group-title="EU| ALBANIA",(ALB) X WESTERN HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3457
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X HUMOR HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XHUMORHD.png" group-title="EU| ALBANIA",(ALB) X HUMOR HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3456
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FILMBOX PREMIUM" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FILMBOXPREMIUM.png" group-title="EU| ALBANIA",(ALB) FILMBOX PREMIUM
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3454
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FILMBOX ARTHOUSE" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FILMBOXARTHOUSE.png" group-title="EU| ALBANIA",(ALB) FILMBOX ARTHOUSE
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3453
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FILMBOX EXTRA" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FILMBOXEXTRA.png" group-title="EU| ALBANIA",(ALB) FILMBOX EXTRA
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3452
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FILMBOX PLUS" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FILMBOXPLUS.png" group-title="EU| ALBANIA",(ALB) FILMBOX PLUS
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3451
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) ART KINO 1 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ARTKINO1HD.png" group-title="EU| ALBANIA",(ALB) ART KINO 1 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3450
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) ART KINO 2 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ARTKINO2HD.png" group-title="EU| ALBANIA",(ALB) ART KINO 2 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3449
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) ART KINO 3 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ARTKINO3HD.png" group-title="EU| ALBANIA",(ALB) ART KINO 3 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3448
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) ART EPISODE HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ARTEPISODEHD.png" group-title="EU| ALBANIA",(ALB) ART EPISODE HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3447
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) ART PRIME HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ARTPRIMEHD.png" group-title="EU| ALBANIA",(ALB) ART PRIME HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3446
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FIRST ACTION HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FIRSTACTIONHD.png" group-title="EU| ALBANIA",(ALB) FIRST ACTION HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3445
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FIRST COMEDY HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FIRSTCOMEDYHD.png" group-title="EU| ALBANIA",(ALB) FIRST COMEDY HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3444
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FIRST DRAME HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FIRSTDRAMEHD.png" group-title="EU| ALBANIA",(ALB) FIRST DRAME HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3443
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FIRST FAMILY HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FIRSTFAMILYHD.png" group-title="EU| ALBANIA",(ALB) FIRST FAMILY HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3442
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FIRST THRILLER HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FIRSTTHRILLERHD.png" group-title="EU| ALBANIA",(ALB) FIRST THRILLER HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3441
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="(ALB) EXPLORER SHKENCE" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/EXPLORERSHKENCE.png" group-title="EU| ALBANIA",(ALB) EXPLORER SHKENCE
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3439
+#EXTINF:-1 tvg-id="expnatyra.al" tvg-name="(ALB) EXPLORER NATYRA" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/EXPLORERNATYRA.png" group-title="EU| ALBANIA",(ALB) EXPLORER NATYRA
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3438
+#EXTINF:-1 tvg-id="exphistori.al" tvg-name="(ALB) EXPLORER HISTORI" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/EXPLORERHISTORI.png" group-title="EU| ALBANIA",(ALB) EXPLORER HISTORI
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3437
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TRING HISTORY" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TRINGHISTORY.png" group-title="EU| ALBANIA",(ALB) TRING HISTORY
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3436
+#EXTINF:-1 tvg-id="tringplanet.al" tvg-name="(ALB) TRING PLANET" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TRINGPLANET.png" group-title="EU| ALBANIA",(ALB) TRING PLANET
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3435
+#EXTINF:-1 tvg-id="tringworld.al" tvg-name="(ALB) TRING WORLD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TRINGWORLD.png" group-title="EU| ALBANIA",(ALB) TRING WORLD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3434
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X HISTORI HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XHISTORIHD.png" group-title="EU| ALBANIA",(ALB) X HISTORI HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3433
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X NATYRA HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XNATYRAHD.png" group-title="EU| ALBANIA",(ALB) X NATYRA HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3432
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X SHKENCE HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XSHKENCEHD.png" group-title="EU| ALBANIA",(ALB) X SHKENCE HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3431
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) SKY PLANET" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SKYPLANET.png" group-title="EU| ALBANIA",(ALB) SKY PLANET
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3430
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) SKY SHKENCE" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SKYSHKENCE.png" group-title="EU| ALBANIA",(ALB) SKY SHKENCE
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3429
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) DISCOVERY TURBO EXTRA" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/DISCOVERYTURBOEXTRA.png" group-title="EU| ALBANIA",(ALB) DISCOVERY TURBO EXTRA
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3428
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) DISCOVERY SCIENCE" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/DISCOVERYSCIENCE.png" group-title="EU| ALBANIA",(ALB) DISCOVERY SCIENCE
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3427
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) DISCOVERY CHANNEL" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/DISCOVERYCHANNEL.png" group-title="EU| ALBANIA",(ALB) DISCOVERY CHANNEL
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3426
+#EXTINF:-1 tvg-id="nationalgeographic.al" tvg-name="(ALB) NATIONAL GEOGRAPHIC" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/NATIONALGEOGRAPHIC.png" group-title="EU| ALBANIA",(ALB) NATIONAL GEOGRAPHIC
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3425
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) NATIONAL GEOGRAPHIC WILD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/NATIONALGEOGRAPHICWILD.png" group-title="EU| ALBANIA",(ALB) NATIONAL GEOGRAPHIC WILD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3424
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) HISTORY CHANNEL" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/HISTORYCHANNEL.png" group-title="EU| ALBANIA",(ALB) HISTORY CHANNEL
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3423
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) 24 KITCHEN" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/24KITCHEN.png" group-title="EU| ALBANIA",(ALB) 24 KITCHEN
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3422
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TLC" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TLC.png" group-title="EU| ALBANIA",(ALB) TLC
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3421
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) MY MUSIC HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/MYMUSICHD.png" group-title="EU| ALBANIA",(ALB) MY MUSIC HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3419
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) Q FOLK HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/QFOLKHD.png" group-title="EU| ALBANIA",(ALB) Q FOLK HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3418
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) Q QIFTELI HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/QQIFTELIHD.png" group-title="EU| ALBANIA",(ALB) Q QIFTELI HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3417
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X MUSIC HITS HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XMUSICHITSHD.png" group-title="EU| ALBANIA",(ALB) X MUSIC HITS HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3416
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X POPULLORE HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XPOPULLOREHD.png" group-title="EU| ALBANIA",(ALB) X POPULLORE HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3415
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) X CIFTELI HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/XCIFTELIHD.png" group-title="EU| ALBANIA",(ALB) X CIFTELI HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3414
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV PLISI QIFTELI HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVPLISICOMEDYHD.png" group-title="EU| ALBANIA",(ALB) TV PLISI QIFTELI HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3413
+#EXTINF:-1 tvg-id="rtv21popullore.al" tvg-name="(ALB) RTV21 POPULLORE" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTV21POPULLORE.png" group-title="EU| ALBANIA",(ALB) RTV21 POPULLORE
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3412
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) Q JETA HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/QJETAHD.png" group-title="EU| ALBANIA",(ALB) Q JETA HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3411
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) SYRI BLU MUSIC HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SYRIBLUMUSICHD.png" group-title="EU| ALBANIA",(ALB) SYRI BLU MUSIC HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3410
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) SYRI TV HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/SYRITVHD.png" group-title="EU| ALBANIA",(ALB) SYRI TV HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/81943
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV OPOJA HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVOPOJAHD.png" group-title="EU| ALBANIA",(ALB) TV OPOJA HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3409
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) ZICO TV" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ZICOTV.png" group-title="EU| ALBANIA",(ALB) ZICO TV
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3408
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) A-MOL TV" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/A-MOLTV.png" group-title="EU| ALBANIA",(ALB) A-MOL TV
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3407
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV PLISI HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVPLISIHD.png" group-title="EU| ALBANIA",(ALB) TV PLISI HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3406
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TOP ESTRADA MUSIC HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TOPESTRADAMUSICHD.png" group-title="EU| ALBANIA",(ALB) TOP ESTRADA MUSIC HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3405
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) ALB" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ALB.png" group-title="EU| ALBANIA",(ALB) ALB
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3404
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) TV ZJARR" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TVZJARR.png" group-title="EU| ALBANIA",(ALB) TV ZJARR
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3403
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) SKY MUSIC HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SKYMUSICHD.png" group-title="EU| ALBANIA",(ALB) SKY MUSIC HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3402
+#EXTINF:-1 tvg-id="" tvg-name="(ALB)  ASHKALI ISLAM" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ASHKALIISLAM.png" group-title="EU| ALBANIA",(ALB)  ASHKALI ISLAM
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3401
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) MIX MUSIC HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/MIXMUSICHD.png" group-title="EU| ALBANIA",(ALB) MIX MUSIC HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3400
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) ELRODI" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ELRODI.png" group-title="EU| ALBANIA",(ALB) ELRODI
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3398
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FOLK" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FOLK.png" group-title="EU| ALBANIA",(ALB) FOLK
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3399
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FOLK+" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/FOLKPLUS.png" group-title="EU| ALBANIA",(ALB) FOLK+
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/42422
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) SUPER SPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SUPERSPORT1HD.png" group-title="EU| ALBANIA",(ALB) SUPER SPORT 1 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3396
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) SUPER SPORT 1 4K" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SUPERSPORT1HD.png" group-title="EU| ALBANIA",(ALB) SUPER SPORT 1 4K
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3395
+#EXTINF:-1 tvg-id="supersport2.al" tvg-name="(ALB) SUPER SPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SUPERSPORT2HD.png" group-title="EU| ALBANIA",(ALB) SUPER SPORT 2 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3394
+#EXTINF:-1 tvg-id="supersport2.al" tvg-name="(ALB) SUPER SPORT 2 4K" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SUPERSPORT2HD.png" group-title="EU| ALBANIA",(ALB) SUPER SPORT 2 4K
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3393
+#EXTINF:-1 tvg-id="supersport3.al" tvg-name="(ALB) SUPER SPORT 3 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SUPERSPORT3HD.png" group-title="EU| ALBANIA",(ALB) SUPER SPORT 3 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3392
+#EXTINF:-1 tvg-id="supersport3.al" tvg-name="(ALB) SUPER SPORT 3 4K" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SUPERSPORT3HD.png" group-title="EU| ALBANIA",(ALB) SUPER SPORT 3 4K
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3391
+#EXTINF:-1 tvg-id="supersport4.al" tvg-name="(ALB) SUPER SPORT 4 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SUPERSPORT4HD.png" group-title="EU| ALBANIA",(ALB) SUPER SPORT 4 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3390
+#EXTINF:-1 tvg-id="supersport4.al" tvg-name="(ALB) SUPER SPORT 4 4K (ONLY MATCH TIME)" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SUPERSPORT4HD.png" group-title="EU| ALBANIA",(ALB) SUPER SPORT 4 4K (ONLY MATCH TIME)
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3389
+#EXTINF:-1 tvg-id="supersport5.al" tvg-name="(ALB) SUPER SPORT 5 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SUPERSPORT5HD.png" group-title="EU| ALBANIA",(ALB) SUPER SPORT 5 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3388
+#EXTINF:-1 tvg-id="supersport5.al" tvg-name="(ALB) SUPER SPORT 5 4K" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SUPERSPORT5HD.png" group-title="EU| ALBANIA",(ALB) SUPER SPORT 5 4K
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3387
+#EXTINF:-1 tvg-id="supersport6.al" tvg-name="(ALB) SUPER SPORT 6 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SUPERSPORT6HD.png" group-title="EU| ALBANIA",(ALB) SUPER SPORT 6 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3386
+#EXTINF:-1 tvg-id="supersport6.al" tvg-name="(ALB) SUPER SPORT 6 4K" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SUPERSPORT6HD.png" group-title="EU| ALBANIA",(ALB) SUPER SPORT 6 4K
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3385
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) SUPER SPORT 7 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SUPERSPORT7HD.png" group-title="EU| ALBANIA",(ALB) SUPER SPORT 7 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3384
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) SUPER SPORT 7 4K" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/SUPERSPORT7HD.png" group-title="EU| ALBANIA",(ALB) SUPER SPORT 7 4K
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3383
+#EXTINF:-1 tvg-id="tringsportnews.al" tvg-name="(ALB) TRING SPORT NEWS" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TRINGSPORTNEWS.png" group-title="EU| ALBANIA",(ALB) TRING SPORT NEWS
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3381
+#EXTINF:-1 tvg-id="tringsportnews.al" tvg-name="(ALB) TRING SPORT NEWS HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TRINGSPORTNEWS.png" group-title="EU| ALBANIA",(ALB) TRING SPORT NEWS HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3380
+#EXTINF:-1 tvg-id="tringsport1.al" tvg-name="(ALB) TRING SPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TRINGSPORT1HD.png" group-title="EU| ALBANIA",(ALB) TRING SPORT 1 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3379
+#EXTINF:-1 tvg-id="tringsport2.al" tvg-name="(ALB) TRING SPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TRINGSPORT2HD.png" group-title="EU| ALBANIA",(ALB) TRING SPORT 2 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3378
+#EXTINF:-1 tvg-id="tringsport3.al" tvg-name="(ALB) TRING SPORT 3 HD (ONLY MATCH TIME)" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/TRINGSPORT3HD.png" group-title="EU| ALBANIA",(ALB) TRING SPORT 3 HD (ONLY MATCH TIME)
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3377
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) K SPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/KSPORT1HD.png" group-title="EU| ALBANIA",(ALB) K SPORT 1 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3374
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) K SPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/KSPORT2HD.png" group-title="EU| ALBANIA",(ALB) K SPORT 2 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3373
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) K SPORT 3 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/KSPORT3HD.png" group-title="EU| ALBANIA",(ALB) K SPORT 3 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3372
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) K SPORT 4 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/KSPORT4HD.png" group-title="EU| ALBANIA",(ALB) K SPORT 4 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3371
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) K SPORT 5 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/KSPORT5HD.png" group-title="EU| ALBANIA",(ALB) K SPORT 5 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3370
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) ART SPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ARTSPORT1HD.png" group-title="EU| ALBANIA",(ALB) ART SPORT 1 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3368
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) ART SPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ARTSPORT2HD.png" group-title="EU| ALBANIA",(ALB) ART SPORT 2 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3367
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) ART SPORT 3 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ARTSPORT3HD.png" group-title="EU| ALBANIA",(ALB) ART SPORT 3 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3366
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) FIGHT BOX HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/FIGHTBOXHD.png" group-title="EU| ALBANIA",(ALB) FIGHT BOX HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3365
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) EDGE SPORT 4K" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/EDGESPORT4K.png" group-title="EU| ALBANIA",(ALB) EDGE SPORT 4K
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3364
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) ISLAM CHANNEL 1 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ISLAMCHANNEL1HD.png" group-title="EU| ALBANIA",(ALB) ISLAM CHANNEL 1 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3362
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) ISLAM CHANNEL 2 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ISLAMCHANNEL2HD.png" group-title="EU| ALBANIA",(ALB) ISLAM CHANNEL 2 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3361
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) ISLAM CHANNEL 3 HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ISLAMCHANNEL3HD.png" group-title="EU| ALBANIA",(ALB) ISLAM CHANNEL 3 HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3360
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) ISLAM CHANNEL FEMIJE HD" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/ISLAMCHANNELFEMIJEHD.png" group-title="EU| ALBANIA",(ALB) ISLAM CHANNEL FEMIJE HD
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3359
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) RTV PENDIMI TV" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/RTVPENDIMITV.png" group-title="EU| ALBANIA",(ALB) RTV PENDIMI TV
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3357
+#EXTINF:-1 tvg-id="" tvg-name="(ALB) PEACE TV" tvg-logo="http://107.152.105.108:81/Logo/ALBANIA/LOGO/PEACETV.png" group-title="EU| ALBANIA",(ALB) PEACE TV
+http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/3356
